@@ -1,28 +1,29 @@
 body {
-    margin: 0;
+    margin: 0 auto;
     text-align: center;
 }
 
 h1 {
-	font-family: "Raleway", "sans-serif";
-    color: #0D2C40;
+	 font-family: "Raleway", "sans-serif";
+   color: #ffffff;
    font-weight: 400;
    font-size: 45px;
    letter-spacing: 1px;
    margin: 0;
 } 
 a {
-	font-family: "Raleway", "sans-serif";
-  color: #F15B31;
+	 font-family: "Raleway", "sans-serif";
+   color: #ffffff;
    font-weight: 600;
    font-size: 18px;
    letter-spacing: 1px;
    margin: 20px;
    order-bottom: 2px solid transparent;
+   text-decoration: none;
 } 
 h3 {
-	font-family: "Raleway", "sans-serif";
-    color: #0D2C40;
+	 font-family: "Raleway", "sans-serif";
+   color: #0D2C40;
    font-weight: 600;
    font-size: 20px;
    letter-spacing: 1px;
@@ -41,7 +42,8 @@ header {
 
 nav{
   background-color: #00A6B3;
-  padding: 20px 0px 20px 0px;
+  padding: 20px 0px;
+
 
 }
 
@@ -66,7 +68,7 @@ footer{
   font-weight: 500;
 }
 
-.copyright {
+.Copyright {
   font-family: "Raleway", "sans-serif";
   float: left;
 }
@@ -93,6 +95,6 @@ footer{
 }
 
 a:hover {
-  color: white;
+  color: #91112b;
 }
 
